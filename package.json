@@ -1,0 +1,23 @@
+{
+  "name": "wreeew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "motion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeejjeH1/wreeew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeejjeH1/wreeew/issues"
+  },
+  "homepage": "https://github.com/jeejjeH1/wreeew#readme",
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}
